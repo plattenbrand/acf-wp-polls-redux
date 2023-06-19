@@ -1,8 +1,8 @@
 {
-  "name": "digitoimistodude/acf-wp-polls-redux",
+  "name": "plattenbrand/acf-wp-polls-redux",
   "type": "wordpress-plugin",
   "description": "Advanced Custom Fields: WP-Polls Poll Field",
-  "homepage": "https://github.com/digitoimistodude/acf-wp-polls-redux",
+  "homepage": "https://github.com/plattenbrand/acf-wp-polls-redux",
   "keywords": ["wordpress", "plugin", "woocommerce"],
   "license": "MIT",
   "version": "1.0.0",
