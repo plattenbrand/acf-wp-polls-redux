@@ -33,6 +33,8 @@ class acf_plugin_wp_polls_redux {
 	*  @return	n/a
 	*/
 
+    	private array $settings;
+
 	function __construct() {
 
 		// vars
